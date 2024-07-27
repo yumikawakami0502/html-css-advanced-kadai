@@ -320,6 +320,9 @@ h3 {
   margin: 10px 0 0 0;
 }
 /* 導入企業 */
+#cases {
+  margin: 40px auto 40px auto;
+}
 ul {
   display: flex;
   list-style: none;
